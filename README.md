@@ -7,11 +7,12 @@ This is a Rest application which provides two end points.
 
 Technology Stack:
 
-  1.Install Maven  - https://maven.apache.org/install.html
+ 1.Install Maven  - https://maven.apache.org/install.html
 
-  2.Install MongoDB in your system - https://docs.mongodb.com/manual/installation/
+ 2.Install MongoDB in your system - https://docs.mongodb.com/manual/installation/
    Run MongoDB - Run 'mongod.exe' in order to start Mongodb
    Command line or any MongoDb cleints like Robo3t /Nosql booaster can be used for a better visualisation.
+   
    
    
  3. Clone the code from git repository - https://github.com/Bindukk18/MyRetailApp.git
