@@ -14,18 +14,18 @@ Technology Stack:
    Command line or any MongoDb cleints like Robo3t /Nosql booaster can be used for a better visualisation.
    
    
-  3. Clone the code from git repository - https://github.com/Bindukk18/MyRetailApp.git
+ 3. Clone the code from git repository - https://github.com/Bindukk18/MyRetailApp.git
 
 
-  4. Make sure you are in the MyRetailApp directory
+ 4. Make sure you are in the MyRetailApp directory
 
 
-  5. Run the following command mvn spring-boot:run
+ 5. Run the following command mvn spring-boot:run
 
 
-  6. Open browser and visit Swagger. http://localhost:8082/swagger-ui.html
+ 6. Open browser and visit Swagger. http://localhost:8082/swagger-ui.html
 
 
-  7. Swagger documentation shows   request and response for GET and PUT requests.
+ 7. Swagger documentation shows   request and response for GET and PUT requests.
 
 
