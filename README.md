@@ -1,8 +1,11 @@
 # MyRetailApp
 This is a Rest application which provides two end points.
 
-1] The GET API  fetches  the product name from an external API.The API combines the fetched name with the pricing information from MongoDB  data store  into a single response.
-2] The PUT API  takes the product information from the request and stored in the MongoDB database.
+    1] The GET API  fetches  the product name from an external API.
+
+       The API combines the fetched name with the pricing information from MongoDB  data store  into a single response.
+
+    2] The PUT API  takes the product information from the request and stored in the MongoDB database.
 
 
 Technology Stack:
@@ -12,8 +15,7 @@ Technology Stack:
     2.Install MongoDB in your system - https://docs.mongodb.com/manual/installation/
        Run MongoDB - Run 'mongod.exe' in order to start Mongodb
       Command line or any MongoDb cleints like Robo3t /Nosql booaster can be used for a better visualisation.
-   
-   
+      
    
     3. Clone the code from git repository - https://github.com/Bindukk18/MyRetailApp.git
 
